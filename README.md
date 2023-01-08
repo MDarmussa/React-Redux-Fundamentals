@@ -1,5 +1,5 @@
 
-Start redux.
+Start react redux steps:
 - install redux.
 - install react-redux.
 - create store.js.
